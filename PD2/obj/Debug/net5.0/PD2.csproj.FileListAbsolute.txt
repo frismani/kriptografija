@@ -1,0 +1,15 @@
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/bin/Debug/net5.0/PD2.deps.json
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/bin/Debug/net5.0/PD2.runtimeconfig.json
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/bin/Debug/net5.0/PD2.runtimeconfig.dev.json
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/bin/Debug/net5.0/PD2.dll
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/bin/Debug/net5.0/ref/PD2.dll
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/bin/Debug/net5.0/PD2.pdb
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.csproj.AssemblyReference.cache
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.AssemblyInfoInputs.cache
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.AssemblyInfo.cs
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.csproj.CoreCompileInputs.cache
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.dll
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/ref/PD2.dll
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.pdb
+/Users/frismani/VIKO/III kursas/V semestras/Kriptografija/PD2/obj/Debug/net5.0/PD2.genruntimeconfig.cache
